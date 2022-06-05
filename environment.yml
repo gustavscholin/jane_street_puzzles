@@ -1,0 +1,5 @@
+name: jane_street_puzzels
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
